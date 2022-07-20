@@ -1,1 +1,10 @@
 sfsdfds
+:13:35.775Z] > git remote --verbose [89ms]
+[2022-07-20T17:13:35.835Z] > git config --get commit.template [54ms]
+[2022-07-20T17:13:37.550Z] > git status -z -uall [184ms]:13:35.775Z] > git remote --verbose [89ms]
+[2022-07-20T17:13:35.835Z] > git config --get commit.template [54ms]
+[2022-07-20T17:13:37.550Z] > git status -z -uall [184ms]:13:35.775Z] > git remote --verbose [89ms]
+[2022-07-20T17:13:35.835Z] > git config --get commit.template [54ms]
+[2022-07-20T17:13:37.550Z] > git status -z -uall [184ms]:13:35.775Z] > git remote --verbose [89ms]
+[2022-07-20T17:13:35.835Z] > git config --get commit.template [54ms]
+[2022-07-20T17:13:37.550Z] > git status -z -uall [184ms]
